@@ -53,6 +53,10 @@ ul {
 .header-link-first :focus {
     color: #404bbf;
 }
+
+.header-link-first :hover {
+    color: #404bbf;
+}
 .address {
     font-style: normal;
 }
@@ -95,8 +99,10 @@ ul {
     cursor: pointer;
 }
 
-.main-content-button :focus,
 .main-content-button :hover {
+    background-color: #404BBF;
+}
+.main-content-button :focus {
     background-color: #404BBF;
 }
 
