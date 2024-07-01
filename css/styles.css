@@ -48,11 +48,11 @@ ul {
 .link-nav:focus {
     color: #404bbf;
 }
+
 .header-list-link:hover,
 .header-list-link:focus {
     color: #404bbf;
 }
-
 
 .header-link-first:focus,
 .header-link-first:hover {
@@ -79,6 +79,9 @@ ul {
     color: #404bbf;
 }
 
+.link-address:focus {
+    color: #404bbf;
+}
 
 .main-content {
     background: #2e2f42;
