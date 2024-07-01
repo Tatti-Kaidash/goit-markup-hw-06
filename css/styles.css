@@ -46,21 +46,17 @@ ul {
     }
 
 
-.header-list-link:hover {
-    color: #404bbf;
-}
-
+.header-list-link:hover,
 .header-list-link:focus {
     color: #404bbf;
 }
 
-.header-link-first:focus {
-    color: #404bbf;
-}
 
+.header-link-first:focus,
 .header-link-first:hover {
     color: #404bbf;
 }
+
 .address {
     font-style: normal;
 }
@@ -103,13 +99,12 @@ ul {
     cursor: pointer;
 }
 
-button
-.main-content-button:hover {
-    background-color: #404BBF;
-}
+
+.main-content-button:hover,
 .main-content-button:focus {
-    background-color: #404BBF;
+background-color: #404BBF;
 }
+
 
 .solutions-list-title {
     font-weight: 500;
