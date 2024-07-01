@@ -45,9 +45,10 @@ ul {
     color: #2e2f42;
     }
 
-
-.header-list-link:hover,
-.header-list-link:active {
+.link-nav:focus {
+    color: #404bbf;
+}
+.header-list-link:hover {
     color: #404bbf;
 }
 
