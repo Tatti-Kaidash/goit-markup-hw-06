@@ -47,12 +47,12 @@ ul {
 
 
 .header-list-link:hover,
-.header-list-link:focus {
+.header-list-link:active {
     color: #404bbf;
 }
 
 
-.header-link-first:focus,
+.header-link-first:active,
 .header-link-first:hover {
     color: #404bbf;
 }
