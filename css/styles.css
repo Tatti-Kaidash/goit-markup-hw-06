@@ -50,7 +50,7 @@ ul {
     color: #404bbf;
 }
 
-.header-link-first :active, :hover, :focus {
+.header-link-first :focus {
     color: #404bbf;
 }
 .address {
@@ -95,7 +95,8 @@ ul {
     cursor: pointer;
 }
 
-.main-content-button :focus, :hover {
+.main-content-button :focus,
+.main-content-button :hover {
     background-color: #404BBF;
 }
 
