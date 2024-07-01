@@ -95,7 +95,7 @@ ul {
     cursor: pointer;
 }
 
-.main-content-button :hover, :focus{
+.main-content-button :hover, :focus {
     background-color: #404BBF;
 }
 
@@ -112,6 +112,7 @@ ul {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .section-title {
