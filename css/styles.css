@@ -95,7 +95,7 @@ ul {
     cursor: pointer;
 }
 
-.main-content-button :hover, :focus {
+.main-content-button :focus, :hover {
     background-color: #404BBF;
 }
 
