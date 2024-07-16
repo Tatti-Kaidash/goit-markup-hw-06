@@ -58,8 +58,6 @@ img {
 .nav {
     display: flex;
     align-items: center;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .header-logo-item {
@@ -69,6 +67,8 @@ img {
 .header-nav-list {
     display: flex;
     gap: 40px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .header-list-link {
