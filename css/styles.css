@@ -58,6 +58,7 @@ img {
 .nav {
     display: flex;
     align-items: center;
+    padding: 24pix 0;
 }
 
 .header-logo-item {
@@ -70,7 +71,6 @@ img {
 }
 
 .header-list-link {
-
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
