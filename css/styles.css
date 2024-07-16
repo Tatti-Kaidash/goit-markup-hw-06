@@ -76,7 +76,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    padding: 24px 0;
+    padding: 24px 0 24px;
 }
 
 /* .first {
@@ -89,15 +89,16 @@ img {
     padding: 24px 0;
     } */
 
-.link-nav:focus {
+.link-nav:focus,
+.link-nav:hover {
     color: #404bbf;
 }
 
 
-.first:focus,
+/* .first:focus,
 .first:hover {
     color: #404bbf;
-}
+} */
 
 .address {
     font-style: normal;
