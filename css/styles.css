@@ -79,7 +79,7 @@ img {
     padding: 24px 0;
 }
 
-.header-link-first {
+/* .first {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -87,19 +87,15 @@ img {
     letter-spacing: 0.02em;
     color: #2e2f42;
     padding: 24px 0;
-    }
+    } */
 
 .link-nav:focus {
     color: #404bbf;
 }
 
-.header-list-link:hover,
-.header-list-link:focus {
-    color: #404bbf;
-}
 
-.header-link-first:focus,
-.header-link-first:hover {
+.first:focus,
+.first:hover {
     color: #404bbf;
 }
 
@@ -267,7 +263,7 @@ background-color: #404BBF;
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
-    row-gap: 40px;
+    row-gap: 48px;
 }
 
 .portfolio-list-item {
