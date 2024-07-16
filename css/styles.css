@@ -62,11 +62,13 @@ img {
 
 .header-logo-item {
     color: #2e2f42;
+    padding: 24px 0;
 } 
 
 .header-nav-list {
     display: flex;
     gap: 40px;
+    padding: 24px 0;
 }
 
 .header-list-link {
