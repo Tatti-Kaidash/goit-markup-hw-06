@@ -62,7 +62,6 @@ img {
 
 .header-logo-item {
     color: #2e2f42;
-    padding: 24px 0;
 } 
 
 .header-nav-list {
@@ -77,29 +76,17 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-        padding: 24px 0;
 }
 
-/* .first {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+.link-nan {
     padding: 24px 0;
-    } */
+}
 
 .link-nav:focus,
 .link-nav:hover {
     color: #404bbf;
 }
 
-
-/* .first:focus,
-.first:hover {
-    color: #404bbf;
-} */
 
 .address {
     font-style: normal;
