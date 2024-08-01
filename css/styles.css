@@ -325,7 +325,7 @@ background-color: #404BBF;
 
 .networks {
 
-    fill: #fff;
+    fill: #f4f4fd;
     overflow: visible;
 }
 
@@ -449,6 +449,7 @@ padding-bottom: 100px;
     gap: 16px;
 }
 
-.footer-link:hover {
+.footer-link:hover,
+.footer-link:focus {
     background-color: #31d0aa;;
 }
