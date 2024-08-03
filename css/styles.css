@@ -499,6 +499,9 @@ padding-bottom: 100px;
     align-items: center;
 }
 
+.footerworks {
+    margin-left: 16px;
+}
 
 .footer-button {
     display: flex;
@@ -688,11 +691,9 @@ padding-bottom: 100px;
 .checkbox:checked + .label .span-box {
     background-color: #404bbf;
     border: none;
-}
-
-.checkbox:checked + .label .span-box .tick-icone {
     fill: #F4F4FD;
 }
+
 
 .form-order-button {
     display: block;
